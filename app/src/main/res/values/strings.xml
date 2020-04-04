@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Temperature Conversion</string>
+    <string name="Calculate" />
+</resources>
